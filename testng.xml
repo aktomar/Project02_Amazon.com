@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="Amazon_sampleProject_poc">
+
+	<listeners>
+
+		<listener class-name="ExtentReportNg_Listner.ExtentReporterNG" />
+
+	</listeners>
+
+
+	<test thread-count="5" name="Test">
+
+		<classes>
+		
+			<class name="Testcases.TC01_ClickOnAmazonSignInButton" />
+	<!--		<class name="Testcases.TC02_VerifyAmazonUserLoginsDetails" />
+			<class name="Testcases.TC04_Adding_Item_Into_Cart" />
+			<class name="Testcases.TC03_SearchItemsOnAmazon" />
+			<class name="Testcases.TC05_Purchase_Item_From_Amazon" />  -->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

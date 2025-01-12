@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-07T11:06:46 IST" name="Amazon_sampleProject_poc" finished-at="2025-01-07T11:07:01 IST" duration-ms="15268">
+  <suite started-at="2025-01-12T19:57:28 IST" name="Amazon_sampleProject_poc" finished-at="2025-01-12T19:58:16 IST" duration-ms="47700">
     <groups>
     </groups>
-    <test started-at="2025-01-07T11:06:46 IST" name="Test" finished-at="2025-01-07T11:07:01 IST" duration-ms="15268">
+    <test started-at="2025-01-12T19:57:28 IST" name="Test" finished-at="2025-01-12T19:58:16 IST" duration-ms="47700">
       <class name="Testcases.TC01_ClickOnAmazonSignInButton">
-        <test-method is-config="true" signature="SetUpBrowser()[pri:0, instance:Testcases.TC01_ClickOnAmazonSignInButton@3cebbb30]" started-at="2025-01-07T11:06:46 IST" name="SetUpBrowser" finished-at="2025-01-07T11:06:56 IST" duration-ms="9791" status="PASS">
+        <test-method is-config="true" signature="SetUpBrowser()[pri:0, instance:Testcases.TC01_ClickOnAmazonSignInButton@59402b8f]" started-at="2025-01-12T19:57:28 IST" name="SetUpBrowser" finished-at="2025-01-12T19:57:47 IST" duration-ms="18647" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUpBrowser -->
-        <test-method signature="VerifyClickOnAmazonSignInButton()[pri:0, instance:Testcases.TC01_ClickOnAmazonSignInButton@3cebbb30]" started-at="2025-01-07T11:06:56 IST" name="VerifyClickOnAmazonSignInButton" description="Verifying Amazon login UI pages.." finished-at="2025-01-07T11:07:01 IST" duration-ms="4983" status="PASS">
+        <test-method signature="VerifyClickOnAmazonSignInButton()[pri:0, instance:Testcases.TC01_ClickOnAmazonSignInButton@59402b8f]" started-at="2025-01-12T19:57:48 IST" name="VerifyClickOnAmazonSignInButton" description="Verifying Amazon login UI pages.." finished-at="2025-01-12T19:58:02 IST" duration-ms="13388" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyClickOnAmazonSignInButton -->
-        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Testcases.TC01_ClickOnAmazonSignInButton@3cebbb30]" started-at="2025-01-07T11:07:01 IST" name="CloseBrowser" finished-at="2025-01-07T11:07:01 IST" duration-ms="415" status="PASS">
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Testcases.TC01_ClickOnAmazonSignInButton@59402b8f]" started-at="2025-01-12T19:58:02 IST" name="CloseBrowser" finished-at="2025-01-12T19:58:16 IST" duration-ms="13403" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->

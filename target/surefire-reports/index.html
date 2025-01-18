@@ -145,6 +145,9 @@
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite name=&quot;Amazon_sampleProject_poc&quot; guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;ExtentReportNg_Listner.ExtentReporterNG&quot;/&gt;
+  &lt;/listeners&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot; verbose=&quot;0&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;Testcases.TC01_ClickOnAmazonSignInButton&quot;/&gt;
@@ -191,7 +194,7 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'VerifyClickOnAmazonSignInButton')
 data.setCell(0, 2, 'Testcases.TC01_ClickOnAmazonSignInButton')
-data.setCell(0, 3, 4983);
+data.setCell(0, 3, 4891);
 window.suiteTableData['Amazon_sampleProject_poc']= { tableData: data, tableDiv: 'times-div-Amazon_sampleProject_poc'}
 return data;
 }
@@ -229,11 +232,11 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">VerifyClickOnAmazonSignInButton</span>
-                <span class="method-start">9823 ms</span>
+                <span class="method-start">9221 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">CloseBrowser</span>
-                <span class="method-start">14806 ms</span>
+                <span class="method-start">14349 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

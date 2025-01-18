@@ -2,6 +2,7 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2025-01-18T14:09:53 IST" name="Amazon_sampleProject_poc" finished-at="2025-01-18T14:10:06 IST" duration-ms="13599">
     <groups>
     </groups>
@@ -87,6 +88,22 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
           </reporter-output>
         </test-method> <!-- VerifyClickOnAmazonSignInButton -->
         <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Testcases.TC01_ClickOnAmazonSignInButton@44d52de2]" started-at="2025-01-18T14:10:05 IST" name="CloseBrowser" finished-at="2025-01-18T14:10:06 IST" duration-ms="760" status="PASS">
+=======
+  <suite started-at="2025-01-12T19:57:28 IST" name="Amazon_sampleProject_poc" finished-at="2025-01-12T19:58:16 IST" duration-ms="47700">
+    <groups>
+    </groups>
+    <test started-at="2025-01-12T19:57:28 IST" name="Test" finished-at="2025-01-12T19:58:16 IST" duration-ms="47700">
+      <class name="Testcases.TC01_ClickOnAmazonSignInButton">
+        <test-method is-config="true" signature="SetUpBrowser()[pri:0, instance:Testcases.TC01_ClickOnAmazonSignInButton@59402b8f]" started-at="2025-01-12T19:57:28 IST" name="SetUpBrowser" finished-at="2025-01-12T19:57:47 IST" duration-ms="18647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpBrowser -->
+        <test-method signature="VerifyClickOnAmazonSignInButton()[pri:0, instance:Testcases.TC01_ClickOnAmazonSignInButton@59402b8f]" started-at="2025-01-12T19:57:48 IST" name="VerifyClickOnAmazonSignInButton" description="Verifying Amazon login UI pages.." finished-at="2025-01-12T19:58:02 IST" duration-ms="13388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyClickOnAmazonSignInButton -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:Testcases.TC01_ClickOnAmazonSignInButton@59402b8f]" started-at="2025-01-12T19:58:02 IST" name="CloseBrowser" finished-at="2025-01-12T19:58:16 IST" duration-ms="13403" status="PASS">
+>>>>>>> c2dd1609a94ca939a52a16127fcea0adc4b56f8e
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->

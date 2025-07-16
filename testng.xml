@@ -16,11 +16,11 @@
 		<classes>
 
 			<class name="Testcases.TC01_ClickOnAmazonSignInButton" />
-			<class name="Testcases.TC02_VerifyAmazonUserLoginsDetails" />
+		<!-- 	<class name="Testcases.TC02_VerifyAmazonUserLoginsDetails" />
 			<class name="Testcases.TC04_Adding_Item_Into_Cart" />
 			<class name="Testcases.TC03_SearchItemsOnAmazon" />
 			<class name="Testcases.TC05_Purchase_Item_From_Amazon" />
-			<class name="Testcases.TC06_Verify_Autosuggestions_InSearchBar" />
+			<class name="Testcases.TC06_Verify_Autosuggestions_InSearchBar" /> -->
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

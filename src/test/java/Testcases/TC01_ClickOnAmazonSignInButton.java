@@ -19,7 +19,7 @@ public class TC01_ClickOnAmazonSignInButton extends Base_Class{
 		Common_methods cm = new Common_methods(driver);
 		
 		Login_Page lp = new Login_Page(driver);
-		
+		lp.HelloSignInMouseHover();
 		lp.AmazonSignIn();
 		cm.TakeScreenshot();
 		

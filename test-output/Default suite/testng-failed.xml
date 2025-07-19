@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Testcases.TC02_VerifyAmazonUserLoginsDetails">
+      <class name="Testcases.TC01_ClickOnAmazonSignInButton">
         <methods>
-          <include name="VerifyUserLoginsDetails"/>
+          <include name="VerifyClickOnAmazonSignInButton"/>
           <include name="CloseBrowser"/>
           <include name="SetUpBrowser"/>
         </methods>
-      </class> <!-- Testcases.TC02_VerifyAmazonUserLoginsDetails -->
+      </class> <!-- Testcases.TC01_ClickOnAmazonSignInButton -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

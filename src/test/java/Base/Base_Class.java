@@ -26,7 +26,9 @@ public class Base_Class {
 		System.setProperty("webdriver.chrome.driver",DriverPath);
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.get(Amazon_Url);
+		driver.navigate().to(Amazon_Url);
+		Thread.sleep(3000);
+		driver.navigate().refresh();
 		Thread.sleep(5000);
 		
 		}

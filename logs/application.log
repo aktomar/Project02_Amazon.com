@@ -1,0 +1,32 @@
+2025-07-20 17:39:54 [main] INFO  Base_Class - Setting system properties
+2025-07-20 17:40:05 [main] INFO  Base_Class - Launching the browser
+2025-07-20 17:40:07 [main] INFO  Base_Class - Maximize Browser
+2025-07-20 17:40:09 [main] INFO  Base_Class - Navigate to the application
+2025-07-20 17:40:13 [main] INFO  Base_Class - Refreshing the webpages
+2025-07-20 17:40:23 [main] INFO  Base_Class - Click on Hello SignIn text
+2025-07-20 17:40:28 [main] INFO  Base_Class - Click on Sign In button
+2025-07-20 17:40:29 [main] INFO  Base_Class - Closing the browser...
+2025-07-20 17:55:22 [main] INFO  Base_Class - Setting system properties
+2025-07-20 17:55:27 [main] INFO  Base_Class - Launching the browser
+2025-07-20 17:55:27 [main] INFO  Base_Class - Maximize Browser
+2025-07-20 17:55:28 [main] INFO  Base_Class - Navigate to the application
+2025-07-20 17:55:31 [main] INFO  Base_Class - Refreshing the webpages
+2025-07-20 17:55:39 [main] INFO  Base_Class - Click on Hello SignIn text
+2025-07-20 17:55:44 [main] INFO  Base_Class - Click on Sign In button
+2025-07-20 17:55:46 [main] INFO  Base_Class - Closing the browser...
+2025-07-20 17:57:26 [main] INFO  Base_Class - Setting system properties
+2025-07-20 17:57:32 [main] INFO  Base_Class - Launching the browser
+2025-07-20 17:57:32 [main] INFO  Base_Class - Maximize Browser
+2025-07-20 17:57:33 [main] INFO  Base_Class - Navigate to the application
+2025-07-20 17:57:37 [main] INFO  Base_Class - Refreshing the webpages
+2025-07-20 17:57:43 [main] INFO  Base_Class - Click on Hello SignIn text
+2025-07-20 17:57:49 [main] INFO  Base_Class - Click on Sign In button
+2025-07-20 17:57:50 [main] INFO  Base_Class - Closing the browser...
+2025-07-20 18:03:23 [main] INFO  Base_Class - Setting system properties
+2025-07-20 18:03:28 [main] INFO  Base_Class - Launching the browser
+2025-07-20 18:03:28 [main] INFO  Base_Class - Maximize Browser
+2025-07-20 18:03:31 [main] INFO  Base_Class - Navigate to the application
+2025-07-20 18:03:35 [main] INFO  Base_Class - Refreshing the webpages
+2025-07-20 18:03:41 [main] INFO  Base_Class - Click on Hello SignIn text
+2025-07-20 18:03:46 [main] INFO  Base_Class - Click on Sign In button
+2025-07-20 18:03:47 [main] INFO  Base_Class - Closing the browser...

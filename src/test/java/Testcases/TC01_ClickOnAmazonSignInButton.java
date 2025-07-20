@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 import Base.Base_Class;
 import Utilities.Common_methods;
 import WebPages.Login_Page;
+import Utilities.Logs;
 
 
 public class TC01_ClickOnAmazonSignInButton extends Base_Class{
@@ -20,7 +21,9 @@ public class TC01_ClickOnAmazonSignInButton extends Base_Class{
 		
 		Login_Page lp = new Login_Page(driver);
 		lp.HelloSignInMouseHover();
+		Logs.info("Click on Hello SignIn text");
 		lp.AmazonSignIn();
+		Logs.info("Click on Sign In button");
 		cm.TakeScreenshot();
 		
 		
